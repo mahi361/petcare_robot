@@ -26,8 +26,8 @@
 #define HREF_GPIO_NUM 23
 #define PCLK_GPIO_NUM 22
 
-const char* ssid = "Badri";
-const char* password = "Badri235";
+const char* ssid = "Mahidhar_phone";
+const char* password = "mahi_1418";
 
 const int RMotor1 = 14;
 const int RMotor2 = 15;
