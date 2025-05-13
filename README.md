@@ -1,8 +1,8 @@
 # Pet Care robot
-
+Pan_camera
 This video will show the demonstrataion of pan_tilt_camera_in_mobile
 ![Example GIF](pan_videoo.gif)
 
-### Second Video
+## output video
 This video will demonstarte how the robot moves and how the water and food will dispense in their respected boxes
-![Example GIF](video_output.gif)
+![Example GIF](output_video_01.gif)
