@@ -56,7 +56,7 @@ Group Members:
     <td width=25%> <img src = "Components/coupler.jpeg" width="100%"><br>(p) </td>
   </tr>
 </table>
-<p>(a)	ESP32 cam module (1), (b) 	ESP32 (1), (c) SG90 servo motor, (d) 200 RPM DC motor (1), (e) Lithium ion cells (8x), (f) L298N Motor Driver (1), (g) channel relay system (2x), (h) DC to DC Buck Convertor, (i) Water Pump Motor(1), (j) Wheels (4x) , (k)  Acrylic sheets , (l) Pvc pipes (2x) switches (2x) , </p>
+<p>(a)	ESP32 cam module (1), (b) 	ESP32 (1), (c) SG90 servo motor, (d) 200 RPM DC motor (1), (e) Lithium ion cells (8x), (f) L298N Motor Driver (1), (g) channel relay system (2x), (h) DC to DC Buck Convertor, (i) Water Pump Motor(1), (j) Wheels (4x) , (k)  Acrylic sheets , (l) Pvc pipes (2x) </p>
 </div>
 
 <h2>Overall Framework</h2>
