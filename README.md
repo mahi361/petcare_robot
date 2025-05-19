@@ -78,7 +78,7 @@ Group Members:
 
 
 
-<h3>2. Circuit diagram for Raspberry pi-4</h3>
+<h3>2. Circuit diagram </h3>
 
 <br>
 
@@ -89,7 +89,7 @@ Group Members:
 
 
 
-<h3>3.Circuit diagram for Arduino uno </h3>
+<h3>3.Circuit diagram for dispensing system </h3>
 <br>
 
 <div align="center">
