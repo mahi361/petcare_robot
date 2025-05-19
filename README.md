@@ -11,8 +11,6 @@
 
 > *Abstract:*The IoT-based pet care robot that is designed to provide convenient and intelligent care for pets. The robot is equipped with a pan-tilt camera, which can be remotely controlled to monitor pets' movements and activities in real-time. 
 The robot also includes a food and water dispenser that can be triggered manually. Additionally, the robot has the ability to move and navigate around the home to follow pets as they move about and a webpage and app are  designed for the pet owners to control the camera, movement, food and water dispenser of the robot
-> ![image](https://github.com/mahi361/petcare_robot/blob/main/.github/assets/hits_logo.png)
-.
 
 Group Members:
 
