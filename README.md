@@ -142,7 +142,7 @@ This video will demonstarte how the robot moves and how the water and food will 
 
 ## Quick Links:
 [![report](https://img.shields.io/badge/Final-Report-brightgreen)](https://github.com/mahi361/Design-and-fabrication-of-submarine-for-coral-reef-monitoriing/blob/main/Report/DP4_FINAL_REPORT_HINDUSTAN.pdf)
-[![slides](https://img.shields.io/badge/Presentation-Slides-red)](https://github.com/mahi361/Design-and-fabrication-of-submarine-for-coral-reef-monitoriing/blob/main/.github/assets/ppt-final.pdf)
+[![slides](https://img.shields.io/badge/Presentation-Slides-red)](https://github.com/mahi361/petcare_robot/blob/main/.github/assets/final_ppt_pet.pdf)
 [![SCRS publication ](https://img.shields.io/badge/SCRS-Publication-blue)](https://www.publications.scrs.in/chapter/978-81-975670-3-2/3)
 
 
