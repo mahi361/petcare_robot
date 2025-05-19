@@ -84,12 +84,12 @@ Group Members:
 
 <div align="center">
 <img src = "https://github.com/mahi361/petcare_robot/blob/main/Circuit_Diagram/circuit_dia.jpg" width="70%">
-<p>Circuit digram for raspberry pi-4 </p>
+<p>Main Circuit Diagram </p>
 </div>
 
 
 
-<h3>3.Circuit diagram for dispensing system </h3>
+<h3>3.Circuit diagram -2 </h3>
 <br>
 
 <div align="center">
