@@ -154,8 +154,7 @@ https://www.semanticscholar.org/paper/The-Study-and-Application-of-the-IoT-in-Pe
 https://ijaem.net/issue_dcp/Pet%20Monitoring%20Robot%20Using%20Iot.pdf
 http://www.ijmerr.com/uploadfile/2021/0727/20210727112956864.pdf
 https://www.jetir.org/papers/JETIR1904I61.pdf
-https://www.sphinxsai.com/2017/ch_vol10_no14/2/(253-258)V1)![image](https://github.com/user-attachments/assets/6955eb7b-09d4-4d24-a374-62d3c56b556e)
-.
+https://www.sphinxsai.com/2017/ch_vol10_no14/2/(253-258)V1)
 
 
 
