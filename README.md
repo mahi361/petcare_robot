@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Design and fabrication of submarine for monitoring coral reefs</h1>
+<h1 align="center"> Iot based pet care robot </h1>
 <p align="center">
 <img src=".github/assets/hits_logo.png" width="700" height="">
 </p>
@@ -11,7 +11,7 @@
 
 > *Abstract:*The IoT-based pet care robot that is designed to provide convenient and intelligent care for pets. The robot is equipped with a pan-tilt camera, which can be remotely controlled to monitor pets' movements and activities in real-time. 
 The robot also includes a food and water dispenser that can be triggered manually. Additionally, the robot has the ability to move and navigate around the home to follow pets as they move about and a webpage and app are  designed for the pet owners to control the camera, movement, food and water dispenser of the robot
-> ![image](https://github.com/user-attachments/assets/a05d2a57-e252-4c5c-8a53-61767738547a)
+> ![image](https://github.com/mahi361/petcare_robot/blob/main/.github/assets/hits_logo.png)
 .
 
 Group Members:
