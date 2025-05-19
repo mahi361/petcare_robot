@@ -56,29 +56,49 @@ Group Members:
     <td width=25%> <img src = "Components/coupler.jpeg" width="100%"><br>(p) </td>
   </tr>
 </table>
-<p>(a) Ardunio Uno (1), (b) Raspberry pi-4 (1), (c) DS182B0 Temperature Sensor, (d) HX710B Pressure Sensor (1), (e)TDS Sensor, (f) Direct Current 555 gear Motor (2x), (g) Lithium Ion Cells (8x), (h) Limit Switch (2x), (i) Water Pump Motor(2x), (j) 0.5 m Power Sharing USB A to USB B Cable for Arduino UNO (1) (k) Syringes 50cc (12x),  Dpdt switches (2x) , (m) Acrylic sheets (2x), (n)  Threaded rods 3mm (3x), (o) coupler (2x) </p>
+<p>(a)	ESP32 cam module (1), (b) 	ESP32 (1), (c) SG90 servo motor, (d) 200 RPM DC motor (1), (e) Lithium ion cells (8x), (f) L298N Motor Driver (1), (g) channel relay system (2x), (h) DC to DC Buck Convertor, (i) Water Pump Motor(1), (j) Wheels (4x) , (k)  Acrylic sheets , (l) Pvc pipes (2x) switches (2x) , </p>
 </div>
 
 <h2>Overall Framework</h2>
 
-<h3>1. Testing phase for sensors and implanting on ballast sysem</h3>
+<h3>1. Web page to control the robot</h3>
 <br>
 <div align="center">
 <table>
   <tr>
-    <td width="30%"> <img src = "testing_phase/2ND_Stage_testing_uno.jpg" width="100%"><br>(a) </td>
-    <td width="30%"> <img src = "testing_phase/initial_01_testing.jpg" width="100%"><br>(b) </td>
-    <td width="60%"> <img src = "testing_phase/sensors_arrangement.jpg" width="100%"><br>(c) </td>
+    <td width="100%"> <img src = "testing_phase/2ND_Stage_testing_uno.jpg" width="100%"> </td>
+   
   </tr>
 </table>
-<p>(a), (b), (c) initial testing , 2nd stage testing, sensor arrangement on ballast system.</p>
+<p>Web page with live video.</p>
+</div>
+<br>
+
+
+<h3>2. Sinric app to control dispensing system</h3>
+
+<br>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="30%"> <img src = "Prototype_submarine_imgs/ballast_prototype.jpg" width="100%"><br>(a) </td>
+    <td width="30%"> <img src = "Prototype_submarine_imgs/output_submarine_01.jpg" width="100%"><br>(b) </td>
+     <td width="50%"> <img src = "Prototype_submarine_imgs/submarine_01_prop.png" width="100%"><br>(c) </td>
+  </tr>
+</table>
+<p>(a), (b) , (c) Sinric app  , notifications from sinric app.</p>
 </div>
 <br>
 
 
 
 
-<h3>2. Circuit diagram </h3>
+
+
+
+
+<h3>3. Circuit diagram </h3>
 
 <br>
 
@@ -89,7 +109,7 @@ Group Members:
 
 
 
-<h3>3.Circuit diagram -2 </h3>
+<h3>4.Circuit diagram -2 </h3>
 <br>
 
 <div align="center">
@@ -102,7 +122,7 @@ Group Members:
 </div>
 <br>
 
-<h3>2. Prototype Images</h3>
+<h3>5. Prototype Images</h3>
 
 <br>
 
