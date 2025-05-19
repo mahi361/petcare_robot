@@ -20,10 +20,10 @@ Group Members:
 * v.sri naveen
 
 
-<h2>Submarine</h2>
+<h2>pet care robot</h2>
 
 <div align="center">
-<img src = "Design_files/chasis_07.jpg" width="100%">
+<img src = "https://github.com/mahi361/petcare_robot/blob/main/Design_files/design_01.png" width="100%">
 </div>
 
 
