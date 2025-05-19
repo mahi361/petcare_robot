@@ -149,11 +149,13 @@ This video will demonstarte how the robot moves and how the water and food will 
 
 
 ## References Used:
--Obura, David O., et al. "Coral reef monitoring reef assessment technologies, and ecosystem-based management." Frontiers in Marine Science 6 (2019): 580.
-
--Hedley, John D., et al. "Remote sensing of coral reefs for monitoring and management: a review." Remote Sensing 8.2 (2016): 118.
-
--Risk, Michael J. "Paradise lost: how marine science failed the world's coral reefs." Marine and Freshwater Research 50, no. 8 (1999): 831-837.
+https://ijireeice.com/wp-content/uploads/2022/12/IJIREEICE.2022.101204.pdf
+https://www.semanticscholar.org/paper/The-Study-and-Application-of-the-IoT-in-Pet-Systems-Own-Shin/7422df6cca241a3d34cbf48bd3660ef07b2089f0
+https://ijaem.net/issue_dcp/Pet%20Monitoring%20Robot%20Using%20Iot.pdf
+http://www.ijmerr.com/uploadfile/2021/0727/20210727112956864.pdf
+https://www.jetir.org/papers/JETIR1904I61.pdf
+https://www.sphinxsai.com/2017/ch_vol10_no14/2/(253-258)V1)![image](https://github.com/user-attachments/assets/6955eb7b-09d4-4d24-a374-62d3c56b556e)
+.
 
 
 
