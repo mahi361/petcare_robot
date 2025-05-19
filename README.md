@@ -9,22 +9,17 @@
 
 
 
-> *Abstract:*A simple submarine model for coral reef monitoring which is a manually operated vehicle and
-uses three types of sensors for monitoring the water in the coral roof ecosystem is presented in this
-paper. Coral reefs play a crucial role in the marine ecosystem by serving as a habitat for a wide range
-of marine species and supporting the livelihoods of coastal communities. Nevertheless, these delicate
-ecosystems are currently facing unparalleled challenges due to climate change, pollution, and human
-activities. It is crucial to implement effective monitoring and conservation measures to ensure the
-preservation of the health and diversity of coral reefs. The manually operated submarine with dpdt switches is capable of
-navigating in the water, measuring and collecting data of TDS level of water, temperature of water and
-pressure at the water various levels of water. For monitoring the collected data, we are using a Micro
-SD card module to store the collected data so that we can observe the data after getting out the
-submarine from water. Initially submarine is controlled using arduino uno and later on we replaced arduino uno with Raspberry pi 4.
+> *Abstract:*The IoT-based pet care robot that is designed to provide convenient and intelligent care for pets. The robot is equipped with a pan-tilt camera, which can be remotely controlled to monitor pets' movements and activities in real-time. 
+The robot also includes a food and water dispenser that can be triggered manually. Additionally, the robot has the ability to move and navigate around the home to follow pets as they move about and a webpage and app are  designed for the pet owners to control the camera, movement, food and water dispenser of the robot
+> ![image](https://github.com/user-attachments/assets/a05d2a57-e252-4c5c-8a53-61767738547a)
+.
 
 Group Members:
 
 * [Mahidhar kollipara](https://github.com/mahi361)
 * [G.Anirudh](https://in.linkedin.com/in/anirudh-gattamaneni-893884218)
+* v.kushin
+* v.sri naveen
 
 
 <h2>Submarine</h2>
