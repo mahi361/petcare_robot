@@ -83,7 +83,7 @@ Group Members:
 <br>
 
 <div align="center">
-<img src = "Circuit_diagram/rpi_circuit/circuit.png" width="70%">
+<img src = "https://github.com/mahi361/petcare_robot/blob/main/Circuit_Diagram/circuit_dia.jpg" width="70%">
 <p>Circuit digram for raspberry pi-4 </p>
 </div>
 
@@ -95,11 +95,10 @@ Group Members:
 <div align="center">
 <table>
   <tr>
-    <td width="50%"> <img src = "Circuit_diagram/arduino_circuit_diagram/motors_cicuit.png" width="100%"><br>(a) </td>
-    <td width="50%"> <img src = "Circuit_diagram/arduino_circuit_diagram/sensor_ciruit.png"length= "120%", width="100%"><br>(b) </td>
+    <td width="50%"> <img src = "https://github.com/mahi361/petcare_robot/blob/main/Circuit_Diagram/2nd_circuit_dia.png" width="100%"> </td>
   </tr>
 </table>
-<p>(a), (b) Circuit diagram for motors (left) Circuit diagram for sensors (right).</p>
+<p> Circuit diagram for dispensing system.</p>
 </div>
 <br>
 
