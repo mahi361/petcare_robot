@@ -32,28 +32,24 @@ Group Members:
 <div align="center">
 <table>
   <tr >
-    <td width=25%> <img src = "Components/arduino_uno.jpeg" width="100%"><br>(a) </td>
-    <td width=25%> <img src = "Components/rpi.png" width="100%"><br>(b) </td>
-    <td width=25%> <img src = "Components/temp.png" width="100%"><br>(c) </td>
-    <td width=25%> <img src = "Components/pressure.png" width="75%"><br>(d) </td>
+    <td width=25%> <img src = "" width="100%"><br>(a) </td>
+    <td width=25%> <img src = "" width="100%"><br>(b) </td>
+    <td width=25%> <img src = "" width="100%"><br>(c) </td>
+    <td width=25%> <img src = "" width="75%"><br>(d) </td>
   </tr>
   <tr>  
-    <td width=25%> <img src = "Components/tds.png" width="1005"><br>(e) </td>
-    <td width=25%> <img src = "Components/555 johnson gear motors.png" width="100%"><br>(f) </td>
-    <td width=25%> <img src = "Components/li-ion batteris.png" width="100%"><br>(g) </td>
-    <td width=25%> <img src = "Components/limit_switch.png" width="100%"><br>(h) </td>
+    <td width=25%> <img src = "" width="1005"><br>(e) </td>
+    <td width=25%> <img src = "" width="100%"><br>(f) </td>
+    <td width=25%> <img src = "" width="100%"><br>(g) </td>
+    <td width=25%> <img src = "" width="100%"><br>(h) </td>
   </tr>
     <tr>  
-    <td width=25%> <img src = "Components/water_pump.png" width="100%"><br>(j) </td>
-    <td width=25%> <img src = "Components/uno cable.jpeg" width="100%"><br>(j) </td>
-    <td width=25%> <img src = "Components/syringes.jpeg" width="100%"><br>(k) </td>
-    <td width=25%> <img src = "Components/dpdt.jpeg" width="100%"><br>(l) </td>
-  </tr>
-  <tr>  
-    <td width=25%> <img src = "Components/acrylic.jpeg" width="1005"><br>(m) </td>
-    <td width=25%> <img src = "Components/threaded rods.png" width="100%"><br>(n) </td>
-    <td width=25%> <img src = "Components/li-ion batteris.png" width="100%"><br>(o) </td>
-    <td width=25%> <img src = "Components/coupler.jpeg" width="100%"><br>(p) </td>
+    <td width=25%> <img src = "" width="100%"><br>(j) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/wheels.jpeg" width="100%"><br>(j) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/acrylic.jpeg" width="100%"><br>(k) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/pvc.jpeg" width="100%"><br>(l) </td>
+  </tr>  
+  
   </tr>
 </table>
 <p>(a)	ESP32 cam module (1), (b) 	ESP32 (1), (c) SG90 servo motor, (d) 200 RPM DC motor (1), (e) Lithium ion cells (8x), (f) L298N Motor Driver (1), (g) channel relay system (2x), (h) DC to DC Buck Convertor, (i) Water Pump Motor(1), (j) Wheels (4x) , (k)  Acrylic sheets , (l) Pvc pipes (2x) </p>
