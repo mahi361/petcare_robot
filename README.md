@@ -66,7 +66,7 @@ Group Members:
 <div align="center">
 <table>
   <tr>
-    <td width="100%"> <img src = "testing_phase/2ND_Stage_testing_uno.jpg" width="100%"> </td>
+    <td width="100%"> <img src = "https://github.com/mahi361/petcare_robot/blob/main/Web_page_interface/web_page.png" width="100%"> </td>
    
   </tr>
 </table>
@@ -129,12 +129,12 @@ Group Members:
 <div align="center">
 <table>
   <tr>
-    <td width="30%"> <img src = "Prototype_submarine_imgs/ballast_prototype.jpg" width="100%"><br>(a) </td>
-    <td width="30%"> <img src = "Prototype_submarine_imgs/output_submarine_01.jpg" width="100%"><br>(b) </td>
-     <td width="50%"> <img src = "Prototype_submarine_imgs/submarine_01_prop.png" width="100%"><br>(c) </td>
+    <td width="30%"> <img src = "https://github.com/mahi361/petcare_robot/blob/main/Prototype_imgs/1.png" width="100%"><br>(a) </td>
+    <td width="30%"> <img src = "https://github.com/mahi361/petcare_robot/blob/main/Prototype_imgs/2.png" width="100%"><br>(b) </td>
+   
   </tr>
 </table>
-<p>(a), (b) , (c) Ballast System , subamarine output , Submarine output with propellor.</p>
+
 </div>
 <br>
 
