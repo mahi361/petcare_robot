@@ -82,12 +82,12 @@ Group Members:
 <div align="center">
 <table>
   <tr>
-    <td width="30%"> <img src = "Prototype_submarine_imgs/ballast_prototype.jpg" width="100%"><br>(a) </td>
-    <td width="30%"> <img src = "Prototype_submarine_imgs/output_submarine_01.jpg" width="100%"><br>(b) </td>
-     <td width="50%"> <img src = "Prototype_submarine_imgs/submarine_01_prop.png" width="100%"><br>(c) </td>
+    <td width="50%"> <img src = "https://github.com/mahi361/petcare_robot/blob/main/Sinric_app/app.png" width="100%"><br>(a) </td>
+    <td width="50%"> <img src = "https://github.com/mahi361/petcare_robot/blob/main/Sinric_app/notifications_from_app.png" width="100%"><br>(b) </td>
+    
   </tr>
 </table>
-<p>(a), (b) , (c) Sinric app  , notifications from sinric app.</p>
+<p>(a), (b) ,  Sinric app  , notifications from sinric app.</p>
 </div>
 <br>
 
