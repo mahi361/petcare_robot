@@ -32,19 +32,19 @@ Group Members:
 <div align="center">
 <table>
   <tr >
-    <td width=25%> <img src = "" width="100%"><br>(a) </td>
-    <td width=25%> <img src = "" width="100%"><br>(b) </td>
-    <td width=25%> <img src = "" width="100%"><br>(c) </td>
-    <td width=25%> <img src = "" width="75%"><br>(d) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/esp32-cam.jpeg" width="100%"><br>(a) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/esp32.jpeg" width="100%"><br>(b) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/servo_motor.jpeg" width="100%"><br>(c) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/200%20rpm.jpeg" width="75%"><br>(d) </td>
   </tr>
   <tr>  
-    <td width=25%> <img src = "" width="1005"><br>(e) </td>
-    <td width=25%> <img src = "" width="100%"><br>(f) </td>
-    <td width=25%> <img src = "" width="100%"><br>(g) </td>
-    <td width=25%> <img src = "" width="100%"><br>(h) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/li-ion.jpeg" width="1005"><br>(e) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/l298n.jpeg" width="100%"><br>(f) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/Screenshot%202025-05-25%20170041.png" width="100%"><br>(g) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/buck.jpeg" width="100%"><br>(h) </td>
   </tr>
     <tr>  
-    <td width=25%> <img src = "" width="100%"><br>(j) </td>
+    <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/pump%20motor.jpeg" width="100%"><br>(j) </td>
     <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/wheels.jpeg" width="100%"><br>(j) </td>
     <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/acrylic.jpeg" width="100%"><br>(k) </td>
     <td width=25%> <img src = "https://github.com/mahi361/petcare_robot/blob/main/components/pvc.jpeg" width="100%"><br>(l) </td>
