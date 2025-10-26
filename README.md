@@ -15,7 +15,7 @@ The robot also includes a food and water dispenser that can be triggered manuall
 Group Members:
 
 * [Mahidhar kollipara](https://github.com/mahi361)
-* [G.Anirudh](https://in.linkedin.com/in/anirudh-gattamaneni-893884218)
+* [G.Anirudh](https://github.com/ANNIGAT/IoT_based_pet_Care_Robot)
 * v.kushin
 * v.sri naveen
 
